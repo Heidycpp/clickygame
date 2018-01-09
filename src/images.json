@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cyborg",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51BXWYG71aL._AC_UL320_SR234,320_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Flash",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41ylyIRaRoL._SY450_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wonder-Woman",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51zGYyaiEwL._SY450_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Aquaman",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51e3tzeDL4L._AC_UL320_SR310,320_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Batman",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51jEqJtyumL._AC_UL320_SR236,320_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Superman",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41dx-6MZjUL._SL500_AC_SS350_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hawkeye",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41zTvxNErML._SL500_AC_SS350_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Black-Widow",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41Bp8yX90tL._SL500_AC_SS350_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hulk",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41NgG67iM4L._SL500_AC_SS350_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Thor",
+    "image": "https://www.coleka.com/media/item/201711/11/pop-marvel-thor-ragnarok-thor-gladiator.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Captain-America",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51ie2G0HeBL._AC_UL320_SR234,320_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Iron-Man",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/512N6ya1mfL.jpg"
+  }
+]
