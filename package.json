@@ -2,6 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://heidycpp.github.io/clickygame/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "prop-types": "^15.6.0",
@@ -16,5 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }
